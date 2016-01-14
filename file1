@@ -1,0 +1,7 @@
+def firstmethod(num):
+  variable = num
+  for index in range(5):
+    variable += 1
+  print variable
+  
+firstmethod(0)
